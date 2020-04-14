@@ -19,7 +19,7 @@
     "node-uuid": "^1.4.3",
     "should": "^13.2.1",
     "sinon": "^6.1.3",
-    "temp": "^0.8.1"
+    "temp": "^0.9.1"
   },
   "scripts": {
     "cover": "istanbul cover _mocha -- --recursive && open coverage/lcov-report/index.html",
